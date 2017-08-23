@@ -63,12 +63,11 @@ npm run dev
 
 # 部分截图
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(1).png" width="250" height="619"/>
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(2).png" width="250" height="619"/>
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(3).png" width="250" height="619"/>
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(4).png" width="250" height="619"/>
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(5).png" width="250" height="619"/>
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(6).png" width="250" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(1).png" width="250" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(2).png" width="250" height="619"/>
+
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(3).png" width="250" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(4).png" width="250" height="619"/>
+
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(5).png" width="250" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(6).png" width="250" height="619"/>
 <img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(7).png" width="250" height="619"/>
 <img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(8).png" width="250" height="619"/>
 <img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(9).png" width="250" height="619"/>
