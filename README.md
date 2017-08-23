@@ -51,7 +51,7 @@ npm run dev
 - [x] 搜索 -- 完成
 - [x] 搜索结果以及筛选 -- 完成
 - [x] 购物车功能 -- 完成
-- [] 商品详情页 -- （等新接口上线马上就改好）
+-    商品详情页 -- （等新接口上线马上就改好）
 - [x] 商家详情页 -- 完成
 - [x] 登录、注册 -- 完成
 - [x] 个人中心 -- 完成
@@ -61,15 +61,24 @@ npm run dev
 - [x] 添加、删除、修改收货地址 -- 完成
 - [x] 付款 -- 不过最好不要在这里付款哈
 
-# 总结
+# 部分截图
 
-2、一般涉及到money的网页逻辑都比较复杂，尤其像饿了么这样一个开放的平台，商家和食品种类繁多，页面与页面之间交互复杂，在写到 购物车 和 下单 功能时众多的数据和逻辑一度让人很头疼，又没有设计和接口api文档，只能一步步摸索。
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(1).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(2).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(3).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(4).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(5).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(6).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(7).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(8).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(9).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(10).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(11).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(12).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(13).png" width="365" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(14).png" width="365" height="619"/>
 
-3、vue因其轻量级的框架在中小型项目中表现亮眼，在大型单页面应用中因为vuex的存在，表现依然出色，在处理复杂交互逻辑的时候，vuex的存在是不可或缺的。所以说利用 vue + vuex 完全可以去做大型的单页面项目。
 
-4、项目写到现在，从 登录注册到、首页、搜索、商家列表、购物车、下单、订单列表、个人中心 一个流程走完之后、不但对vue的理解更深一层，而且对以后掌控大型项目的时候也有非常多的帮助，做一个实际的项目才能对自己有很大的提升。
-
-5、曾一度怀疑，花几个月的时间做这样一个项目到底有没有意义，本来只是想做一个小项目练练手，没想到后来越写越多，不过坚持下来后我相信一切都是值得的。
 
 
 
