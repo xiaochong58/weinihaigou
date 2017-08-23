@@ -42,6 +42,8 @@ npm run dev
 
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
+>  如果您不想注册的可以直接用这个账户 用户名 15757135989 密码 123456
+
 > 吕胖胖的博客 http://www.qdfuns.com/house/15098/note
 
 # 目标功能
@@ -63,19 +65,19 @@ npm run dev
 
 # 部分截图
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(1).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(2).png" width="360" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(1).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(2).png" width="360" height="500"/>
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(3).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(4).png" width="360" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(3).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(4).png" width="360" height="500"/>
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(5).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(6).png" width="360" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(5).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(6).png" width="360" height="500"/>
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(7).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(8).png" width="360" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(7).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(8).png" width="360" height="500"/>
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(9).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(10).png" width="360" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(9).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(10).png" width="360" height="500"/>
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(11).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(12).png" width="360" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(11).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(12).png" width="360" height="500"/>
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(13).png" width="360" height="619"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(14).png" width="360" height="619"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(13).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(14).png" width="360" height="500"/>
 
 
 
